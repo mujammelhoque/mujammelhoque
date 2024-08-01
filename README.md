@@ -3,7 +3,7 @@
 #### I am a software engineer 
 
 
- I am a confident and reliable working person with a flexible approach to work. My learning process is always advancing. I am creative, positive and always  willingness to learn new things. I prefer to prove myself as a quick learner and highly energetic person to face any challenge. 
+ I am a confident and reliable working person with a flexible approach to work. My learning process is always advancing and I am creative, positive and always  willingness to learn new things. I prefer to prove myself as a quick learner and highly energetic person to face any challenge. 
 
 Skills: PHP/ Laravel/ MySql /Livewire/React/Nextjs/Vuejs/Javascript/ HTML/CSS/Bootstrap
 
@@ -26,10 +26,7 @@ Skills: PHP/ Laravel/ MySql /Livewire/React/Nextjs/Vuejs/Javascript/ HTML/CSS/Bo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mujammelhoque&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mujammelhoque/contributions?format=svg&private=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/mujammelhoque)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mujammelhoque)  
-
 
