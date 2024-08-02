@@ -1,5 +1,5 @@
 ![I am a software engineer ](https://media.licdn.com/dms/image/D5616AQGUi9Bj22y_Ow/profile-displaybackgroundimage-shrink_350_1400/0/1722536846991?e=1727913600&v=beta&t=XeSRloVUxWcpEZeUMj3JwYjiru_QxNjmB4RACGasZIs)
-### Hi there 👋, My name is Mujammel Hoque
+### Hi, My name is Mujammel Hoque
 #### I am a software engineer 
 
 
