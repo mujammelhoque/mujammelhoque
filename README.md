@@ -24,9 +24,9 @@ Skills: PHP/ Laravel/ MySql /Livewire/React/Nextjs/Vuejs/Javascript/ HTML/CSS/Bo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujammelhoque)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mujammelhoque&show_icons=true&count_private=true)  
+#### ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mujammelhoque&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/mujammelhoque)  
+#### ![GitHub metrics](https://metrics.lecoq.io/mujammelhoque)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mujammelhoque)  
+#### ![GitHub streak stats](https://streak-stats.demolab.com/?user=mujammelhoque)  
 
