@@ -49,4 +49,3 @@ I once spent an entire weekend debugging a single line of code - a humbling expe
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mujammelhoque&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mujammelhoque)](https://git.io/streak-stats)
