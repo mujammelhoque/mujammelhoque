@@ -2,7 +2,7 @@
 
 ### Full-Stack Software Engineer 💻
 
-[![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D5616AQGUi9Bj22y_Ow/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722536846991?e=1752105600&v=beta&t=29XIXqKH9sPiTnwu0s-lxloadgRsByIgzVvYH6WhuAE)
+![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D5616AQGUi9Bj22y_Ow/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722536846991?e=1752105600&v=beta&t=29XIXqKH9sPiTnwu0s-lxloadgRsByIgzVvYH6WhuAE)
 
 I'm a passionate software engineer with expertise in building robust web applications. With a flexible approach to work and continuous learning mindset, I thrive on solving complex problems and creating efficient solutions. I bring creativity, positivity, and enthusiasm to every project I undertake.
 
