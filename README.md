@@ -45,7 +45,7 @@ I once spent an entire weekend debugging a single line of code - a humbling expe
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mujammelhoque&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mujammelhoque&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+##[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mujammelhoque&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mujammelhoque&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
