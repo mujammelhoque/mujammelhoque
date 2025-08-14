@@ -40,8 +40,11 @@ I'm a passionate software engineer with expertise in building robust web applica
 
 I once spent an entire weekend debugging a single line of code - a humbling experience that taught me the value of patience in programming!
 
----
+## 🏆 GitHub Achievements
 
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mujammelhoque&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mujammelhoque&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
